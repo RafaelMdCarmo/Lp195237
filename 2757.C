@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Rafael Mello do Carmo
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/2757
+Data        : 29/04/2026
+Objetivo    : imprimir os numeros de formas diferentes
+Aprendizado : outras maneiras de apresentar o resultado na tela
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
