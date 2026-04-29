@@ -4,7 +4,7 @@ Nome        : Rafael Mello do Carmo
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/2758
 Data        : 29/04/2026
-Objetivo    : 
+Objetivo    : inprimir numeros decimais de formas diferentes
 Aprendizado : 
 -------------------------------------------------------------------------- */
 
