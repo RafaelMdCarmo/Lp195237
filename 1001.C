@@ -1,3 +1,13 @@
+/* --------------------------------------------------------------------------
+Disciplina  : Lógica de Programação, turma IB, 2026S1
+Nome        : Rafael Mello do Carmo
+Linguagem   : C
+Problema    : https://judge.beecrowd.com/pt/problems/view/1001
+Data        : 29/04/2026
+Objetivo    : escanear 2 valores e somar eles
+Aprendizado : estrutura basica de scan e conta
+-------------------------------------------------------------------------- */
+
 #include <stdio.h>
 
 int main()
