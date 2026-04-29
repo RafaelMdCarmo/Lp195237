@@ -2,7 +2,7 @@
 Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Rafael Mello do Carmo
 Linguagem   : C
-Problema    : https://judge.beecrowd.com/pt/problems/view/XXXX
+Problema    : https://judge.beecrowd.com/pt/problems/view/2758
 Data        : 29/04/2026
 Objetivo    : 
 Aprendizado : 
