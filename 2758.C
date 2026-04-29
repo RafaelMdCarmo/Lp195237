@@ -5,7 +5,7 @@ Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/2758
 Data        : 29/04/2026
 Objetivo    : inprimir numeros decimais de formas diferentes
-Aprendizado : 
+Aprendizado : ainda mais maneiras de representar numeros na tela
 -------------------------------------------------------------------------- */
 
 #include <stdio.h>
